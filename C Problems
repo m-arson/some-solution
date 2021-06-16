@@ -10,3 +10,6 @@ scanf("%*[^\n\r]")
 # to buff string
 char buff[100];
 scanf("%[^\n]%*c", buff); or scanf("%[^\n]s");
+
+
+sudo apt install gnome-system-tools
