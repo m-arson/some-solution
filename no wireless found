@@ -5,7 +5,7 @@ sudo rfkill unblock wifi
 
 Tip 2:
 
-sudo dhcpd -4
+sudo dhcpcd -4
 
 Tip 3 :
 
