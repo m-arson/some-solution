@@ -1,0 +1,1 @@
+sudo ssh -tt -i /home/smiotdev/olwistubi.pem -R 9990:localhost:8081 ubuntu@3.131.238.81
